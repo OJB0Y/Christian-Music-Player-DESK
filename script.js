@@ -503,6 +503,7 @@ const playlist = [
     src: "songs/Te Necesito.mp3",
     cover: "images/Hay una ciudad.png"
   }
+  //add more songs under here {}
 ];
 
 // --- element refs ---
