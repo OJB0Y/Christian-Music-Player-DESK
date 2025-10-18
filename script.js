@@ -19,7 +19,7 @@ const playlist = [
   },
   {
     title: "Que lindo es mi Cristo",
-    artist: "Hermanos Osorio, Los Hermanos Reyes de Guatemala",
+    artist: "Wilson Camey, Los Hermanos Reyes de Guatemala",
     src: "songs/Que lindo es mi Cristo.mp3",
     cover: "images/Que lindo es mi Cristo.png"
   },
